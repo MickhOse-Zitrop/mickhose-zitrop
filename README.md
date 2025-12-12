@@ -1,16 +1,23 @@
-## Hi there 👋
+# MickhOse Zitrop
 
-<!--
-**MickhOse-Zitrop/mickhose-zitrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Mobile Developer  
+JavaScript / TypeScript / React / Next.js / Flutter / Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+- **Frontend:** JavaScript, TypeScript, React, Next.js  
+- **Mobile:** Flutter (Dart)  
+- **Backend / Scripts:** Python  
+- **Tools:** Git, Docker, Linux, VS Code
+
+---
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MickhOseZitrop&show_icons=true&hide_border=true)
+
+---
+
+### 📫 Contact
+**Telegram:** @your_username  
+**Email:** yourmail@example.com
