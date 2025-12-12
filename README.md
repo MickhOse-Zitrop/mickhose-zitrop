@@ -58,11 +58,11 @@
 ### 📊 GitHub Statistics  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MickhOse-Zitrop&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MickhOse-Zitrop&layout=compact&theme=tokyonight&hide_border=true" />
-  <br />
-  <img height="170" src="https://streak-stats.demolab.com?user=MickhOse-Zitrop&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/MickhOse-Zitrop?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/MickhOse-Zitrop?label=Stars&style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/github/commit-activity/y/MickhOse-Zitrop?label=Commit%20Activity&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/MickhOse-Zitrop/MickhOse-Zitrop?label=Last%20Commit&style=for-the-badge" />
 </p>
 
 ---
