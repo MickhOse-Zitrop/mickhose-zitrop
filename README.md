@@ -58,7 +58,7 @@
 ### 📊 GitHub Statistics  
 
 <p align="center">
-  <img height="170" src="https://gh-stats-phi.vercel.app/api?username=MickhOse-Zitrop&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="[https://gh-stats-phi.vercel.app/api?username=MickhOse-Zitrop&show_icons=true&theme=tokyonight&hide_border=true](https://gh-stats-phi.vercel.app/api?username=MickhOse-Zitrop&show_icons=true&theme=tokyonight&hide_border=true)" />
   <br />
   <img height="170" src="https://gh-stats-phi.vercel.app/api/top-langs/?username=MickhOse-Zitrop&layout=compact&theme=tokyonight&hide_border=true" />
   <br />
